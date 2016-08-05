@@ -1,0 +1,39 @@
+_repo: From-the-Caves-and-Jungles-of-Hindostan_6687
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blavatsky, H. P. (Helena Petrovna)
+    aliases:
+    - Blavatski, H. P.
+    - Блаватская, Е. П. (Елена Петровна)
+    - Blavatski, Yelena Petrovna
+    - Blavatsky, Helena Petrovna
+    birthdate: 1831
+    deathdate: 1891
+    gutenberg_agent_id: '2154'
+    url: http://www.gutenberg.org/2009/agents/2154
+    wikipedia: http://en.wikipedia.org/wiki/Helena_Petrovna_Blavatsky
+description: Title; Contents; Translator's Preface; In Bombay; On The Way To Karli;
+  In The Karli Caves; Vanished Glories; A City Of The Dead; Brahmanic Hospitalities;
+  A Witch's Den; God's Warrior; The Banns Of Marriage; The Caves Of Bagh; An Isle
+  of Mystery; Jubblepore; Endnotes.
+gutenberg_bookshelf:
+- Racism
+- India
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blavatsky, H. P. (Helena Petrovna), 1831-1891'
+- !lcc 'BP'
+- !lcsh 'India -- Description and travel'
+- !lcsh 'India -- Religion'
+- !lcc 'DS'
+- GITenberg
+title: From the Caves and Jungles of Hindostan
+url: http://www.gutenberg.org/ebooks/6687
