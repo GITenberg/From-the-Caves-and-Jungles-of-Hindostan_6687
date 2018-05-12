@@ -1,5 +1,8 @@
 _repo: From-the-Caves-and-Jungles-of-Hindostan_6687
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blavatsky, H. P. (Helena Petrovna)
@@ -17,6 +20,8 @@ description: Title; Contents; Translator's Preface; In Bombay; On The Way To Kar
   In The Karli Caves; Vanished Glories; A City Of The Dead; Brahmanic Hospitalities;
   A Witch's Den; God's Warrior; The Banns Of Marriage; The Caves Of Bagh; An Isle
   of Mystery; Jubblepore; Endnotes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6687#From-the-Caves-and-Jungles-of-Hindostan
 gutenberg_bookshelf:
 - Racism
 - India
